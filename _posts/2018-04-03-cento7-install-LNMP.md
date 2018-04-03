@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "服务器跳板机配置"
-subtitle:   " \"jump service\""
+title:      "LNMP"
+subtitle:   " \"install LNMP for centos7\""
 date:       2018-04-03 18:00:00
 author:     "Oliver"
 tags:
